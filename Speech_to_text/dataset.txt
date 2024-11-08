@@ -1,0 +1,5 @@
+https://www.iitm.ac.in/donlab/indictts/database
+
+voice to frequencies
+frequencies to fourier graph
+s
